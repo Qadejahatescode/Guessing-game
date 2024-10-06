@@ -26,12 +26,16 @@ One of the projects i did in a 6 week bootcamp
    ```bash
    git clone https://github.com/your-username/backend-guessing-game.git
    cd backend-guessing-game
-2.Install dependencies
-  npm install
-3.run ther server
-  npm start
+2. Install dependencies:
+   ```bash
+   npm install
 
-###Future Improvements
+3. Run the server:
+   ```bash
+   npm start
+
+### Future Improvements
+
 -  Add a front-end interface for the game.
 -  Implement user authentication to allow multiple games for different users.
 -  Add difficulty levels.
